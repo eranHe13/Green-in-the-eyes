@@ -84,8 +84,6 @@ Jane Smith,0987654321
 ## תמונה
 ![ממשק GreenEyesApp](./screenshot.png "GreenEyesApp User Interface")
 
-## יצירת קשר
-לשאלות או תמיכה, צרו קשר:
-- ערן הלביץ
+
 
 </div>
